@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/distributed-systems-hero.png" width="100%" alt="Distributed systems architecture banner" />
+<img src="./distributed-systems-hero.png" width="100%" alt="Distributed systems architecture banner" />
 
 # Jatin Singh
 
